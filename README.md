@@ -8,9 +8,9 @@ and This is a Table of Notes, Hope you Enjoy Reading
 
 | Content       | URL           |  
 | ------------- |:-------------:|  
-|               |               | 
-|               |               |  
-|               |               |   
+| Groth-mindset |               | 
+|    GitHub     |               |  
+|   A-C-P       |               |   
 
 
 i’ll be glad if you follow me on [GitHub](https://github.com/MaramhMohammad)
