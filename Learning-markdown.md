@@ -16,7 +16,7 @@ Markdown is a way to style text on the web. it's a plain text-to-HTML conversion
 
 1. Syntax highlighting
 
-for Headers 
+**for Headers** 
 
 (#) This is an h1 tag
 
@@ -24,9 +24,11 @@ for Headers
 
 (######) This is an h6 tag
 
- for Lists 
+ **for Lists** 
  
-- Unordered 
+- Unordered by adding astricsk 
 
-- Ordered
+- Ordered by adding numbers 
+
+
 
