@@ -24,7 +24,7 @@ and we should care of these topics
 - HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
 - To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 
-`This is a great resorce where you can master html and css [w3schools](https://www.w3schools.com/)`
+`This is a great resorce where you can master html and css` [w3schools](https://www.w3schools.com) 
 
 
 ![html](https://res.cloudinary.com/hcu8jcnmr/image/upload/c_lpad,w_600,h_600/lrc18uxmzb6zro3uqsbn.jpg) 
