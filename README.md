@@ -10,8 +10,10 @@
 | ------------- |:-------------:|  
 | Groth-mindset | [click here](https://maramhmohammad.github.io/reading-notes/Groth-mindset)        | 
 |    GitHub     | [click here](https://maramhmohammad.github.io/reading-notes/GitHub)             |  
+|  Git Intro  | [click here](https://maramhmohammad.github.io/reading-notes/Git-Intro)  |   
 |   A-C-P       | [click here](https://maramhmohammad.github.io/reading-notes/A-C-P)              |   
 |Learning Markdown| [click here](https://maramhmohammad.github.io/reading-notes/Learning-markdown)  |   
+
 
 
 - i’ll be glad if you follow me on [GitHub](https://github.com/MaramhMohammad)
