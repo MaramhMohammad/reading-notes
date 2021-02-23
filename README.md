@@ -16,7 +16,7 @@
 | HTML & CSS     | [click here](https://maramhmohammad.github.io/reading-notes/html&css-book)  |   
 | Design with CSS     | [click here](https://maramhmohammad.github.io/reading-notes/Design-with-CSS)  |   
 | How Computer Work     | [click here](https://maramhmohammad.github.io/reading-notes/HowComputerWork)  |   
-| JavaScript & jQuery     | [click here](https://maramhmohammad.github.io/reading-notes/JavaScript&jQuery) |   
+| JavaScript & jQuery     | [click here](https://maramhmohammad.github.io/reading-notes/JavaScript-jQuery) |   
 
 
 
