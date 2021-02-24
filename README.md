@@ -17,6 +17,8 @@
 | Design with CSS     | [click here](https://maramhmohammad.github.io/reading-notes/Design-with-CSS)  |   
 | How Computer Work     | [click here](https://maramhmohammad.github.io/reading-notes/HowComputerWork)  |   
 | JavaScript & jQuery     | [click here](https://maramhmohammad.github.io/reading-notes/JavaScript-jQuery) |   
+| Programming-with-JavaScript    | [click here](https://maramhmohammad.github.io/reading-notes/Programming-with-JavaScript) |   
+| Operators-and-Loops     | [click here](https://maramhmohammad.github.io/reading-notes/Operators-and-Loops) |   
 
 
 
