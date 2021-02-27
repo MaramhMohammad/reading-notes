@@ -27,4 +27,7 @@
 
 - i’ll be glad if you follow me on [GitHub](https://github.com/MaramhMohammad)
 
-![text](https://avatars.githubusercontent.com/u/3904529?s=280&v=4)
+
+
+# Code 201 Reading Notes
+This is my new repo for [201 reading notes](https://maramhmohammad.github.io/code-201-reading-notes/)
